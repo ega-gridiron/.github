@@ -1,4 +1,4 @@
-# EGA Tech Limited / EGA Gridiron
+EGA Gridiron
 
 Welcome to EGA Gridiron, the technology service from EGA Tech Limited.
 
