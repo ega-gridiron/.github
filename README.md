@@ -1,6 +1,6 @@
 # EGA Tech Limited / EGA Gridiron
 
-Welcome to EGA Gridiron, the technology company from the EGA Group of Companies.
+Welcome to EGA Gridiron, the technology service from EGA Tech Limited.
 
 Visit our website at <a href='https://www.ega-gridiron.com' target='site'>https://www.ega-gridiron.com</a> for more information on our company as well as its products and services.
 
